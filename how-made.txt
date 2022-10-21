@@ -1,0 +1,17 @@
+This repository was made by following the instructions from Odin Project.
+
+https://www.theodinproject.com/lessons/foundations-git-basics
+
+1. GitHub: "git_learning" repository on  with README.md file
+2. Mac: "git_learning" folder
+3. terminal: 'git clone + $SSH-GitHub-copied-link' (the repository from GitHub was connected to the folder on mac)
+4. terminal: echo text in hello.txt in "git_learning" folder on mac
+5. VSC: Changes in README.md
+6. terminal: 'git add $FILE-NAME' separately each file
+7. 'git commit -m' 
+8. 'git push'
+
+by the way there was some problem with 'git push' but 'git pull --rebase' worked.
+
+9. terminal: touch how-made.txt 
+10. terminal: step 6-8.
